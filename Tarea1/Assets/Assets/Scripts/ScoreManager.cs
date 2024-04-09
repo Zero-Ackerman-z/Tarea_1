@@ -5,7 +5,7 @@ using TMPro;
 
 public class ScoreManager : MonoBehaviour
 {
-    public int score = 0; // Variable para almacenar el puntaje
+    public int score = 30; // Variable para almacenar el puntaje
     public TMP_Text scoreText; // Referencia al objeto TextMeshPro para mostrar el puntaje
 
     // Método para actualizar el puntaje y mostrarlo en la UI
